@@ -15,5 +15,7 @@
     "ora": "^6.3.0",
     "simple-git": "^3.17.0"
   },
-  "bin": "index.js"
+  "bin": {
+    "gitassist": "./index.js"
+  }
 }
